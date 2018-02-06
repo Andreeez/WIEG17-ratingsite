@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(0, 48, 51);
+    color: white;
+    width: 600px;
+    margin: auto;
+}
+
+li {
+    color: red;
+}
+
+a {
+    color: yellow;
+}
